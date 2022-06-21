@@ -29,3 +29,7 @@ Here are some useful cli tools.
 ### clang-query
 Clang-query allows you to write queries to search for specific code patterns, extract information about variables, functions, and classes, and perform transformations on the Clang AST.
 [README.md](query/README.md)
+
+### Codeql
+Codeql CLI APIs provides a command-line interface for interacting with CodeQL databases and running queries. I found that these APIs can be easily used to identify function pointers and work well.
+[README.md](ql/README.md)
